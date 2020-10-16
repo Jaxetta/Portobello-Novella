@@ -21,10 +21,4 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>http://portobello-novella.com/contact-us.html</loc>
-    <lastmod>2020-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>

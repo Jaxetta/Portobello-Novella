@@ -1,28 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1602817554962">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1602820496289">
   <folder name="css">
-    <file name="site_global.css" crc="3976167511"/>
-    <file name="master_a-master.css" crc="365927388" ref="contact-us:index:jaqi-loye-brown"/>
-    <file name="contact-us.css" crc="63863456" ref="contact-us"/>
-    <file name="index.css" crc="4034546515" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="4264798226" ref="jaqi-loye-brown"/>
+    <file name="site_global.css" crc="281498015"/>
+    <file name="master_a-master.css" crc="391435979" ref="index:jaqi-loye-brown"/>
+    <file name="index.css" crc="3992802069" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="3936623070" ref="jaqi-loye-brown"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown:contact-us"/>
-    <file name="museutils.js" crc="340535759" ref="index:jaqi-loye-brown:contact-us"/>
-    <file name="whatinput.js" crc="86476730" ref="index:jaqi-loye-brown:contact-us"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:jaqi-loye-brown:contact-us"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:jaqi-loye-brown:contact-us"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:jaqi-loye-brown:contact-us"/>
-    <file name="webpro.js" crc="4059564322" ref="contact-us"/>
-    <file name="form_check.php" crc="4020933626" ref="contact-us"/>
-    <file name="form_throttle.php" crc="4259590256" ref="contact-us"/>
-    <file name="form_process.php" crc="37464564" ref="contact-us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:jaqi-loye-brown:contact-us"/>
-    <file name="require.js" crc="7928878" ref="index:jaqi-loye-brown:contact-us"/>
-    <file name="form-u943.php" crc="3898270159" ref="contact-us"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown"/>
+    <file name="museutils.js" crc="340535759" ref="index:jaqi-loye-brown"/>
+    <file name="whatinput.js" crc="86476730" ref="index:jaqi-loye-brown"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:jaqi-loye-brown"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:jaqi-loye-brown"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:jaqi-loye-brown"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:jaqi-loye-brown"/>
+    <file name="require.js" crc="7928878" ref="index:jaqi-loye-brown"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown.png" crc="262559161" ref="index">
+    <file name="arrowmenudown-dark.png" crc="3810837464" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="portabello-novella.png" crc="3811056305" ref="index">
@@ -40,7 +34,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="129357547" seo="true" mt="1602817492756" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="22352136" seo="true" mt="1602817012643" redirect="true"/>
-  <file name="contact-us.html" crc="227303078" seo="true" mt="1602817012643" redirect="true"/>
+  <file name="index.html" crc="3841193489" seo="true" mt="1602820016613" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="321670386" seo="true" mt="1602820016613" redirect="true"/>
 </manifest>
