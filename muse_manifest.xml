@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1602820496289">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1602821431031">
   <folder name="css">
     <file name="site_global.css" crc="281498015"/>
     <file name="master_a-master.css" crc="391435979" ref="index:jaqi-loye-brown"/>
@@ -34,6 +34,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3841193489" seo="true" mt="1602820016613" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="321670386" seo="true" mt="1602820016613" redirect="true"/>
+  <file name="index.html" crc="412361704" seo="true" mt="1602821156428" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="3903225432" seo="true" mt="1602821156428" redirect="true"/>
 </manifest>
