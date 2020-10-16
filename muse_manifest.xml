@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1602814085739">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1602817554962">
   <folder name="css">
     <file name="site_global.css" crc="3976167511"/>
-    <file name="master_a-master.css" crc="4055972401" ref="contact-us:index:jaqi-loye-brown"/>
-    <file name="contact-us.css" crc="4079155216" ref="contact-us"/>
-    <file name="index.css" crc="4128648677" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="4144781248" ref="jaqi-loye-brown"/>
+    <file name="master_a-master.css" crc="365927388" ref="contact-us:index:jaqi-loye-brown"/>
+    <file name="contact-us.css" crc="63863456" ref="contact-us"/>
+    <file name="index.css" crc="4034546515" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="4264798226" ref="jaqi-loye-brown"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown:contact-us"/>
@@ -40,7 +40,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3981138147" seo="true" mt="1602813987905" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="4004730994" seo="true" mt="1602808724738" redirect="true"/>
-  <file name="contact-us.html" crc="117055586" seo="true" mt="1602808724738" redirect="true"/>
+  <file name="index.html" crc="129357547" seo="true" mt="1602817492756" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="22352136" seo="true" mt="1602817012643" redirect="true"/>
+  <file name="contact-us.html" crc="227303078" seo="true" mt="1602817012643" redirect="true"/>
 </manifest>
