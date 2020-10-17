@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1602821431031">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1602973526866">
   <folder name="css">
     <file name="site_global.css" crc="281498015"/>
-    <file name="master_a-master.css" crc="391435979" ref="index:jaqi-loye-brown"/>
-    <file name="index.css" crc="3992802069" ref="index"/>
+    <file name="master_a-master.css" crc="496104886" ref="index:jaqi-loye-brown"/>
+    <file name="index.css" crc="99858882" ref="index"/>
     <file name="jaqi-loye-brown.css" crc="3936623070" ref="jaqi-loye-brown"/>
   </folder>
   <folder name="scripts">
@@ -22,6 +22,7 @@
     <file name="portabello-novella.png" crc="3811056305" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="quote-marks@1000px.png" crc="3838436031" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -33,7 +34,87 @@
     <file name="photo 16-10-2018, 16 45 08.jpg" crc="3825368154" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="amazon-red.png" crc="4042529737" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amazon-white.png" crc="3830929971" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-red.png" crc="479174072" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-white.png" crc="264529275" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-red.png" crc="182879113" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-white.png" crc="4173782376" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-red.png" crc="3795075921" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-white.png" crc="4251606374" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-red.png" crc="4238877212" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-white.png" crc="169507125" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-red.png" crc="496965596" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-white.png" crc="96638998" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pintrest-red.png" crc="366123413" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pintrest-whit.png" crc="3872524573" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soundcloud-red.png" crc="4229711155" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soundcloud-white.png" crc="98295856" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="412361704" seo="true" mt="1602821156428" redirect="true"/>
+  <file name="index.html" crc="205038441" seo="true" mt="1602973388567" redirect="true"/>
   <file name="jaqi-loye-brown.html" crc="3903225432" seo="true" mt="1602821156428" redirect="true"/>
 </manifest>
