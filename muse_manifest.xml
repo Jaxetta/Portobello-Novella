@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1602974408832">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603074448800">
   <folder name="css">
-    <file name="site_global.css" crc="281498015"/>
+    <file name="site_global.css" crc="218414963"/>
     <file name="master_a-master.css" crc="391435979" ref="index:jaqi-loye-brown"/>
-    <file name="index.css" crc="3869314433" ref="index"/>
+    <file name="index.css" crc="315008529" ref="index"/>
     <file name="jaqi-loye-brown.css" crc="3936623070" ref="jaqi-loye-brown"/>
   </folder>
   <folder name="scripts">
@@ -14,6 +14,7 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:jaqi-loye-brown"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:jaqi-loye-brown"/>
     <file name="require.js" crc="7928878" ref="index:jaqi-loye-brown"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
     <file name="arrowmenudown-dark.png" crc="3810837464" ref="index">
@@ -114,7 +115,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="amazon-red-buttonu1496-fr.png" crc="4069631173" ref="index"/>
+    <file name="amazon-white-buttonu1496-r-fr.png" crc="4255712905" ref="index"/>
+    <file name="linkedin-red-buttonu1497-fr.png" crc="4068314181" ref="index"/>
+    <file name="linkedin-white-buttonu1497-r-fr.png" crc="520740737" ref="index"/>
+    <file name="twitter-red-buttonu1498-fr.png" crc="4024933364" ref="index"/>
+    <file name="twitter-white-buttonu1498-r-fr.png" crc="3899693187" ref="index"/>
+    <file name="instagram-red-buttonu1499-fr.png" crc="3827034646" ref="index"/>
+    <file name="instagram-white-buttonu1499-r-fr.png" crc="169150597" ref="index"/>
+    <file name="facebook-red-buttonu1500-fr.png" crc="3990298667" ref="index"/>
+    <file name="facebook-white-buttonu1500-r-fr.png" crc="4138983303" ref="index"/>
+    <file name="youtube-red-buttonu1501-fr.png" crc="367856351" ref="index"/>
+    <file name="youtube-white-buttonu1501-r-fr.png" crc="511809289" ref="index"/>
+    <file name="pintrest-red-buttonu1502-fr.png" crc="499176911" ref="index"/>
+    <file name="pintrest-whit-buttonu1502-r-fr.png" crc="33449820" ref="index"/>
+    <file name="soundcloud-red-buttonu1503-fr.png" crc="3783495785" ref="index"/>
+    <file name="soundcloud-white-buttonu1503-r-fr.png" crc="4120871790" ref="index"/>
   </folder>
-  <file name="index.html" crc="469721505" seo="true" mt="1602974337247" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="3903225432" seo="true" mt="1602821156428" redirect="true"/>
+  <file name="index.html" crc="78100937" seo="true" mt="1603074248597" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="486509370" seo="true" mt="1603074248597" redirect="true"/>
 </manifest>
