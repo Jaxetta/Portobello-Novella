@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603074448800">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603083456319">
   <folder name="css">
     <file name="site_global.css" crc="218414963"/>
     <file name="master_a-master.css" crc="391435979" ref="index:jaqi-loye-brown"/>
-    <file name="index.css" crc="315008529" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="3936623070" ref="jaqi-loye-brown"/>
+    <file name="index.css" crc="130354949" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="95009780" ref="jaqi-loye-brown"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown"/>
@@ -132,6 +132,6 @@
     <file name="soundcloud-red-buttonu1503-fr.png" crc="3783495785" ref="index"/>
     <file name="soundcloud-white-buttonu1503-r-fr.png" crc="4120871790" ref="index"/>
   </folder>
-  <file name="index.html" crc="78100937" seo="true" mt="1603074248597" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="486509370" seo="true" mt="1603074248597" redirect="true"/>
+  <file name="index.html" crc="77948277" seo="true" mt="1603083362568" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="4111018110" seo="true" mt="1603083297408" redirect="true"/>
 </manifest>
