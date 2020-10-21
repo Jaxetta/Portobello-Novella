@@ -1,24 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603213804895">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603240542212">
   <folder name="css">
     <file name="site_global.css" crc="218414963"/>
-    <file name="master_a-master.css" crc="391435979" ref="index:jaqi-loye-brown"/>
-    <file name="index.css" crc="3768783833" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="95009780" ref="jaqi-loye-brown"/>
+    <file name="master_a-master.css" crc="3875822833" ref="index:jaqi-loye-brown:temp"/>
+    <file name="index.css" crc="4044453106" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="4170517717" ref="jaqi-loye-brown"/>
+    <file name="temp.css" crc="424651236" ref="temp"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown"/>
-    <file name="museutils.js" crc="340535759" ref="index:jaqi-loye-brown"/>
-    <file name="whatinput.js" crc="86476730" ref="index:jaqi-loye-brown"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:jaqi-loye-brown"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:jaqi-loye-brown"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:jaqi-loye-brown"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:jaqi-loye-brown"/>
-    <file name="require.js" crc="7928878" ref="index:jaqi-loye-brown"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown:temp"/>
+    <file name="museutils.js" crc="340535759" ref="index:jaqi-loye-brown:temp"/>
+    <file name="whatinput.js" crc="86476730" ref="index:jaqi-loye-brown:temp"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:jaqi-loye-brown:temp"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:jaqi-loye-brown:temp"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:jaqi-loye-brown:temp"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:jaqi-loye-brown:temp"/>
+    <file name="require.js" crc="7928878" ref="index:jaqi-loye-brown:temp"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown-dark.png" crc="3810837464" ref="index">
+    <file name="arrowmenudown-dark.png" crc="3810837464" ref="temp">
       <caption webpage="index" alt=""/>
+      <caption webpage="temp" alt=""/>
     </file>
     <file name="portabello-novella.png" crc="3811056305" ref="index">
       <caption webpage="index" alt=""/>
@@ -132,6 +134,7 @@
     <file name="soundcloud-red-buttonu1503-fr.png" crc="3783495785" ref="index"/>
     <file name="soundcloud-white-buttonu1503-r-fr.png" crc="4120871790" ref="index"/>
   </folder>
-  <file name="index.html" crc="4267693109" seo="true" mt="1603213646807" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="4111018110" seo="true" mt="1603083297408" redirect="true"/>
+  <file name="index.html" crc="3778903838" seo="true" mt="1603239905688" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="3988602417" seo="true" mt="1603239905688" redirect="true"/>
+  <file name="temp.html" crc="358250648" seo="true" mt="1603239905688" redirect="true"/>
 </manifest>
