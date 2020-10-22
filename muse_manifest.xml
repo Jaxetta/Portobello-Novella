@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603328743499">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603329821471">
   <folder name="css">
     <file name="site_global.css" crc="218414963"/>
-    <file name="master_a-master.css" crc="127239369" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="3906817637" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="4182676302" ref="jaqi-loye-brown"/>
-    <file name="temp.css" crc="234076233" ref="temp"/>
+    <file name="master_a-master.css" crc="370395916" ref="index:jaqi-loye-brown:temp"/>
+    <file name="index.css" crc="475924504" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="419944339" ref="jaqi-loye-brown"/>
+    <file name="temp.css" crc="431563414" ref="temp"/>
     <file name="nomq_preview_master_a-master.css" crc="364881409" ref="index:jaqi-loye-brown:temp"/>
-    <file name="nomq_index.css" crc="3797779768" ref="index"/>
+    <file name="nomq_index.css" crc="500662184" ref="index"/>
     <file name="nomq_jaqi-loye-brown.css" crc="4075459668" ref="jaqi-loye-brown"/>
     <file name="nomq_temp.css" crc="476579802" ref="temp"/>
   </folder>
@@ -31,11 +31,15 @@
       <caption webpage="temp" alt=""/>
       <caption webpage="temp" alt=""/>
       <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
     </file>
     <file name="portabello-novella.png" crc="3811056305" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="quote-marks@1000px.png" crc="3838436031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -104,8 +108,31 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:jaqi-loye-brown:temp"/>
+    <file name="trainers204x98.jpg" crc="3762618228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portabello-novella-u1482-fr.png" crc="494731585" ref="index"/>
+    <file name="photo 16-10-2018, 16 45 08138x184.jpg" crc="236919771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amazon-red-buttonu2549-fr.png" crc="4069631173" ref="index"/>
+    <file name="amazon-white-buttonu2549-r-fr.png" crc="4255712905" ref="index"/>
+    <file name="linkedin-red-buttonu2550-fr.png" crc="4068314181" ref="index"/>
+    <file name="linkedin-white-buttonu2550-r-fr.png" crc="520740737" ref="index"/>
+    <file name="twitter-red-buttonu2551-fr.png" crc="4024933364" ref="index"/>
+    <file name="twitter-white-buttonu2551-r-fr.png" crc="3899693187" ref="index"/>
+    <file name="instagram-red-buttonu2552-fr.png" crc="3827034646" ref="index"/>
+    <file name="instagram-white-buttonu2552-r-fr.png" crc="169150597" ref="index"/>
+    <file name="facebook-red-buttonu2553-fr.png" crc="3990298667" ref="index"/>
+    <file name="facebook-white-buttonu2553-r-fr.png" crc="4138983303" ref="index"/>
+    <file name="youtube-red-buttonu2554-fr.png" crc="367856351" ref="index"/>
+    <file name="youtube-white-buttonu2554-r-fr.png" crc="511809289" ref="index"/>
+    <file name="pintrest-red-buttonu2555-fr.png" crc="499176911" ref="index"/>
+    <file name="pintrest-whit-buttonu2555-r-fr.png" crc="33449820" ref="index"/>
+    <file name="soundcloud-red-buttonu2556-fr.png" crc="3783495785" ref="index"/>
+    <file name="soundcloud-white-buttonu2556-r-fr.png" crc="4120871790" ref="index"/>
   </folder>
-  <file name="index.html" crc="4177210927" seo="true" mt="1603328660092" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="4068688419" seo="true" mt="1603328660092" redirect="true"/>
-  <file name="temp.html" crc="202950848" seo="true" mt="1603328660092" redirect="true"/>
+  <file name="index.html" crc="404333224" seo="true" mt="1603329678095" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="4164802534" seo="true" mt="1603329525475" redirect="true"/>
+  <file name="temp.html" crc="370192475" seo="true" mt="1603329525475" redirect="true"/>
 </manifest>
