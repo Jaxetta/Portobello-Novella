@@ -1,10 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603243423123">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603328743499">
   <folder name="css">
     <file name="site_global.css" crc="218414963"/>
-    <file name="master_a-master.css" crc="3875822833" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="4044453106" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="4170517717" ref="jaqi-loye-brown"/>
-    <file name="temp.css" crc="424651236" ref="temp"/>
+    <file name="master_a-master.css" crc="127239369" ref="index:jaqi-loye-brown:temp"/>
+    <file name="index.css" crc="3906817637" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="4182676302" ref="jaqi-loye-brown"/>
+    <file name="temp.css" crc="234076233" ref="temp"/>
+    <file name="nomq_preview_master_a-master.css" crc="364881409" ref="index:jaqi-loye-brown:temp"/>
+    <file name="nomq_index.css" crc="3797779768" ref="index"/>
+    <file name="nomq_jaqi-loye-brown.css" crc="4075459668" ref="jaqi-loye-brown"/>
+    <file name="nomq_temp.css" crc="476579802" ref="temp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown:temp"/>
@@ -16,18 +20,24 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:jaqi-loye-brown:temp"/>
     <file name="require.js" crc="7928878" ref="index:jaqi-loye-brown:temp"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:jaqi-loye-brown:temp"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:jaqi-loye-brown:temp"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:jaqi-loye-brown:temp"/>
   </folder>
   <folder name="images">
     <file name="arrowmenudown-dark.png" crc="3810837464" ref="temp">
       <caption webpage="index" alt=""/>
       <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
+      <caption webpage="temp" alt=""/>
     </file>
     <file name="portabello-novella.png" crc="3811056305" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="quote-marks@1000px.png" crc="3838436031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -39,102 +49,63 @@
     </file>
     <file name="amazon-red.png" crc="4042529737" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="amazon-white.png" crc="3830929971" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="linkedin-red.png" crc="479174072" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="linkedin-white.png" crc="264529275" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="twitter-red.png" crc="182879113" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="twitter-white.png" crc="4173782376" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="instagram-red.png" crc="3795075921" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="instagram-white.png" crc="4251606374" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="facebook-red.png" crc="4238877212" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="facebook-white.png" crc="169507125" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="youtube-red.png" crc="496965596" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="youtube-white.png" crc="96638998" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pintrest-red.png" crc="366123413" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pintrest-whit.png" crc="3872524573" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="soundcloud-red.png" crc="4229711155" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="soundcloud-white.png" crc="98295856" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="portabello-novella-u597-fr.png" crc="3784101650" ref="index"/>
+    <file name="portabello-novella-u620-fr.png" crc="3815119434" ref="index"/>
+    <file name="trainers384x185.jpg" crc="164130208" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="amazon-red-buttonu1496-fr.png" crc="4069631173" ref="index"/>
-    <file name="amazon-white-buttonu1496-r-fr.png" crc="4255712905" ref="index"/>
-    <file name="linkedin-red-buttonu1497-fr.png" crc="4068314181" ref="index"/>
-    <file name="linkedin-white-buttonu1497-r-fr.png" crc="520740737" ref="index"/>
-    <file name="twitter-red-buttonu1498-fr.png" crc="4024933364" ref="index"/>
-    <file name="twitter-white-buttonu1498-r-fr.png" crc="3899693187" ref="index"/>
-    <file name="instagram-red-buttonu1499-fr.png" crc="3827034646" ref="index"/>
-    <file name="instagram-white-buttonu1499-r-fr.png" crc="169150597" ref="index"/>
-    <file name="facebook-red-buttonu1500-fr.png" crc="3990298667" ref="index"/>
-    <file name="facebook-white-buttonu1500-r-fr.png" crc="4138983303" ref="index"/>
-    <file name="youtube-red-buttonu1501-fr.png" crc="367856351" ref="index"/>
-    <file name="youtube-white-buttonu1501-r-fr.png" crc="511809289" ref="index"/>
-    <file name="pintrest-red-buttonu1502-fr.png" crc="499176911" ref="index"/>
-    <file name="pintrest-whit-buttonu1502-r-fr.png" crc="33449820" ref="index"/>
-    <file name="soundcloud-red-buttonu1503-fr.png" crc="3783495785" ref="index"/>
-    <file name="soundcloud-white-buttonu1503-r-fr.png" crc="4120871790" ref="index"/>
+    <file name="photo 16-10-2018, 16 45 08261x348.jpg" crc="497196132" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:jaqi-loye-brown:temp"/>
   </folder>
-  <file name="index.html" crc="184536023" seo="true" mt="1603243402317" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="3909633782" seo="true" mt="1603243402317" redirect="true"/>
-  <file name="temp.html" crc="500243845" seo="true" mt="1603243402317" redirect="true"/>
+  <file name="index.html" crc="4177210927" seo="true" mt="1603328660092" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="4068688419" seo="true" mt="1603328660092" redirect="true"/>
+  <file name="temp.html" crc="202950848" seo="true" mt="1603328660092" redirect="true"/>
 </manifest>

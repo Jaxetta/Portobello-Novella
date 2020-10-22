@@ -11,14 +11,19 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "jaqi-loye-brown.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "webpro.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "jaqi-loye-brown.css"], "outOfDate":[]};
 </script>
   
   <title>Jaqi Loye Brown</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=218414963"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3875822833"/>
-  <link rel="stylesheet" type="text/css" href="css/jaqi-loye-brown.css?crc=4170517717" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=127239369"/>
+  <link rel="stylesheet" type="text/css" href="css/jaqi-loye-brown.css?crc=4182676302" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=364881409"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_jaqi-loye-brown.css?crc=4075459668" id="nomq_pagesheet"/>
+  <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -28,33 +33,35 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="browser_width colelem" id="u94-bw">
-    <div id="u94"><!-- group -->
-     <div class="clearfix" id="u94_align_to_page">
-      <nav class="MenuBar clearfix grpelem" id="menuu115" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- horizontal box -->
-       <div class="MenuItemContainer clearfix grpelem" id="u116"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u117" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u119-4"><!-- content --><p>Home</p></div></a>
-       </div>
-       <div class="MenuItemContainer clearfix grpelem" id="u190"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u193" href="https://portobello-novella.blogspot.com/search/label/books"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u196-4"><!-- content --><p>Books</p></div></a>
-       </div>
-       <div class="MenuItemContainer clearfix grpelem" id="u211"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u212" href="https://portobello-novella.blogspot.com"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u213-4"><!-- content --><p>Blog</p></div></a>
-       </div>
-       <div class="MenuItemContainer clearfix grpelem" id="u232"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u235" href="https://portobello-novella.blogspot.com/p/about-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u236-4"><!-- content --><p>About</p></div></a>
-       </div>
-       <div class="MenuItemContainer clearfix grpelem" id="u1185"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u1186" href="https://portobello-novella.blogspot.com/p/contact-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u1189-4"><!-- content --><p>Contact</p></div></a>
-       </div>
-      </nav>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="701"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- column -->
+    <div class="browser_width colelem" id="u4736-bw">
+     <div id="u4736"><!-- group -->
+      <div class="clearfix" id="u4736_align_to_page">
+       <nav class="MenuBar clearfix grpelem" id="menuu4768" data-sizePolicy="fluidWidth" data-pintopage="page_fixedLeft"><!-- horizontal box -->
+        <div class="MenuItemContainer clearfix grpelem" id="u4797"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u4800" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u4803-4"><!-- content --><p>Home</p></div></a>
+        </div>
+        <div class="MenuItemContainer clearfix grpelem" id="u4783"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u4786" href="https://portobello-novella.blogspot.com/search/label/books"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u4788-4"><!-- content --><p>Books</p></div></a>
+        </div>
+        <div class="MenuItemContainer clearfix grpelem" id="u4769"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u4770" href="https://portobello-novella.blogspot.com"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u4773-4"><!-- content --><p>Blog</p></div></a>
+        </div>
+        <div class="MenuItemContainer clearfix grpelem" id="u4776"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u4779" href="https://portobello-novella.blogspot.com/p/about-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u4782-4"><!-- content --><p>About</p></div></a>
+        </div>
+        <div class="MenuItemContainer clearfix grpelem" id="u4790"><!-- vertical box -->
+         <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u4793" href="https://portobello-novella.blogspot.com/p/contact-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap OLM-Menu clearfix grpelem" id="u4795-4"><!-- content --><p>Contact</p></div></a>
+        </div>
+       </nav>
+      </div>
      </div>
     </div>
-   </div>
-   <div class="browser_width colelem" id="u1529-bw">
-    <div id="u1529"><!-- custom html -->
-     <!-- Begin Mailchimp Signup Form -->
+    <div class="clearfix colelem" id="pu1529"><!-- group -->
+     <div class="browser_width grpelem shared_content" id="u1529-bw" data-content-guid="u1529-bw_content">
+      <div id="u1529"><!-- custom html -->
+       <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="https://blogspot.us19.list-manage.com/subscribe/post?u=1b47bf50bf9f2ce526d70a923&amp;id=f3eb2283e6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 	<div class="mc-field-group">
@@ -70,9 +77,63 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[2]='LNAME';ftypes[2]='text';fnames[5]='MMERGE5';ftypes[5]='text';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[10]='MMERGE10';ftypes[10]='text';fnames[11]='MMERGE11';ftypes[11]='text';fnames[12]='MMERGE12';ftypes[12]='text';fnames[13]='MMERGE13';ftypes[13]='text';fnames[14]='MMERGE14';ftypes[14]='text';fnames[15]='MMERGE15';ftypes[15]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+      </div>
+     </div>
+     <div class="accordion_wrapper grpelem" id="accordionu4737wrapper" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- vertical box -->
+      <ul class="AccordionWidget clearfix" id="accordionu4737" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- column -->
+       <li class="AccordionPanel clearfix colelem" id="u4738"><!-- vertical box --><div class="AccordionPanelTab clearfix colelem" id="u4739-3"><!-- content --><p class="shared_content" data-content-guid="u4739-3_0_content">&nbsp;</p></div><div class="AccordionPanelContent disn clearfix colelem" id="u4740"><!-- group --><div class="clearfix grpelem shared_content" id="u4741-3" data-content-guid="u4741-3_content"><!-- content --><p>&nbsp;</p></div><nav class="MenuBar clearfix grpelem" id="menuu4742"><!-- vertical box --><div class="MenuItemContainer clearfix colelem" id="u4757"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u4758" href="index.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u4761-4"><!-- content --><p class="shared_content" data-content-guid="u4761-4_0_content">Home</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u5753"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u5754" href="https://portobello-novella.blogspot.com/2020/10/portobello-novella-test-post.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5756-5"><!-- content --><p class="shared_content" data-content-guid="u5756-5_0_content">Books</p><p id="u5756-3" class="shared_content" data-content-guid="u5756-3_content">&nbsp;</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u5789"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u5790" href="https://portobello-novella.blogspot.com"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5793-4"><!-- content --><p class="shared_content" data-content-guid="u5793-4_0_content">Blog</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u5824"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u5825" href="https://portobello-novella.blogspot.com/p/about-us.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5827-4"><!-- content --><p class="shared_content" data-content-guid="u5827-4_0_content">About Us</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u5859"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u5860" href="https://portobello-novella.blogspot.com/p/contact-us.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5862-4"><!-- content --><p class="shared_content" data-content-guid="u5862-4_0_content">Contact Us</p></div></a></div></nav></div></li>
+      </ul>
+     </div>
+     <div class="browser_width grpelem shared_content" id="u5379-bw" data-content-guid="u5379-bw_content">
+      <div id="u5379"><!-- custom html -->
+       <!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="https://blogspot.us19.list-manage.com/subscribe/post?u=1b47bf50bf9f2ce526d70a923&amp;id=f3eb2283e6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email">
+</div>
+	<div id="mce-responses">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div ><input type="text" name="b_1b47bf50bf9f2ce526d70a923_f3eb2283e6" tabindex="-1" value=""></div>
+    <div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[2]='LNAME';ftypes[2]='text';fnames[5]='MMERGE5';ftypes[5]='text';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[10]='MMERGE10';ftypes[10]='text';fnames[11]='MMERGE11';ftypes[11]='text';fnames[12]='MMERGE12';ftypes[12]='text';fnames[13]='MMERGE13';ftypes[13]='text';fnames[14]='MMERGE14';ftypes[14]='text';fnames[15]='MMERGE15';ftypes[15]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+      </div>
+     </div>
     </div>
+    <div class="verticalspacer shared_content" data-offset-top="424" data-content-above-spacer="424" data-content-below-spacer="76" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-content-guid="page_2_content"></div>
    </div>
-   <div class="verticalspacer" data-offset-top="424" data-content-above-spacer="424" data-content-below-spacer="76" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+  </div>
+  <div class="breakpoint" id="bp_700" data-max-width="700"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="browser_width colelem temp_no_id" data-orig-id="u4736-bw">
+     <div class="temp_no_id" data-orig-id="u4736"><!-- group -->
+      <div class="clearfix temp_no_id" data-orig-id="u4736_align_to_page">
+       <div class="clearfix grpelem" id="u4764"><!-- column -->
+        <div class="colelem" id="u4766" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
+        <div class="colelem" id="u4767" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
+        <div class="colelem" id="u4765" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem temp_no_id" data-orig-id="pu1529"><!-- group -->
+     <span class="browser_width grpelem placeholder" data-placeholder-for="u1529-bw_content"><!-- placeholder node --></span>
+     <div class="accordion_wrapper grpelem temp_no_id" data-orig-id="accordionu4737wrapper"><!-- vertical box -->
+      <div class="browser_width" id="accordionu4737-bw">
+       <ul class="AccordionWidget clearfix temp_no_id" data-orig-id="accordionu4737"><!-- column -->
+        <li class="AccordionPanel clearfix colelem100 temp_no_id" data-orig-id="u4738"><!-- vertical box --><div class="AccordionPanelTab clearfix colelem100 temp_no_id" data-orig-id="u4739-3"><!-- content --><span class="placeholder" data-placeholder-for="u4739-3_0_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn clearfix colelem100 temp_no_id" data-orig-id="u4740"><!-- group --><span class="clearfix grpelem placeholder" data-placeholder-for="u4741-3_content"><!-- placeholder node --></span><nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu4742"><!-- vertical box --><div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u4757"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="index.html" data-orig-id="u4758"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-orig-id="u4761-4"><!-- content --><span class="placeholder" data-placeholder-for="u4761-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u5753"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="https://portobello-novella.blogspot.com/2020/10/portobello-novella-test-post.html" data-orig-id="u5754"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-orig-id="u5756-5"><!-- content --><span class="placeholder" data-placeholder-for="u5756-5_0_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u5756-3_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u5789"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="https://portobello-novella.blogspot.com" data-orig-id="u5790"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-orig-id="u5793-4"><!-- content --><span class="placeholder" data-placeholder-for="u5793-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u5824"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="https://portobello-novella.blogspot.com/p/about-us.html" data-orig-id="u5825"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-orig-id="u5827-4"><!-- content --><span class="placeholder" data-placeholder-for="u5827-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u5859"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="https://portobello-novella.blogspot.com/p/contact-us.html" data-orig-id="u5860"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-orig-id="u5862-4"><!-- content --><span class="placeholder" data-placeholder-for="u5862-4_0_content"><!-- placeholder node --></span></div></a></div></nav></div></li>
+       </ul>
+      </div>
+     </div>
+     <span class="browser_width grpelem placeholder" data-placeholder-for="u5379-bw_content"><!-- placeholder node --></span>
+    </div>
+    <span class="verticalspacer placeholder" data-placeholder-for="page_2_content"><!-- placeholder node --></span>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -85,16 +146,17 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch","webpro","musewpdisclosure","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_700'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#accordionu4737', ['#bp_infinity', '#bp_700'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu4737 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
