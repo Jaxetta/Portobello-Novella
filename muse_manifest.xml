@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603329821471">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603331200871">
   <folder name="css">
     <file name="site_global.css" crc="218414963"/>
-    <file name="master_a-master.css" crc="370395916" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="475924504" ref="index"/>
+    <file name="master_a-master.css" crc="447861531" ref="index:jaqi-loye-brown:temp"/>
+    <file name="index.css" crc="4212434495" ref="index"/>
     <file name="jaqi-loye-brown.css" crc="419944339" ref="jaqi-loye-brown"/>
     <file name="temp.css" crc="431563414" ref="temp"/>
     <file name="nomq_preview_master_a-master.css" crc="364881409" ref="index:jaqi-loye-brown:temp"/>
-    <file name="nomq_index.css" crc="500662184" ref="index"/>
+    <file name="nomq_index.css" crc="303059390" ref="index"/>
     <file name="nomq_jaqi-loye-brown.css" crc="4075459668" ref="jaqi-loye-brown"/>
     <file name="nomq_temp.css" crc="476579802" ref="temp"/>
   </folder>
@@ -132,7 +132,7 @@
     <file name="soundcloud-red-buttonu2556-fr.png" crc="3783495785" ref="index"/>
     <file name="soundcloud-white-buttonu2556-r-fr.png" crc="4120871790" ref="index"/>
   </folder>
-  <file name="index.html" crc="404333224" seo="true" mt="1603329678095" redirect="true"/>
+  <file name="index.html" crc="4077500375" seo="true" mt="1603331144709" redirect="true"/>
   <file name="jaqi-loye-brown.html" crc="4164802534" seo="true" mt="1603329525475" redirect="true"/>
   <file name="temp.html" crc="370192475" seo="true" mt="1603329525475" redirect="true"/>
 </manifest>
