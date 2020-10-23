@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603423880349">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603488347401">
   <folder name="css">
     <file name="site_global.css" crc="218414963"/>
-    <file name="master_a-master.css" crc="415870499" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="4123407423" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="337146565" ref="jaqi-loye-brown"/>
-    <file name="temp.css" crc="40451394" ref="temp"/>
+    <file name="master_a-master.css" crc="4084693642" ref="index:jaqi-loye-brown:temp"/>
+    <file name="index.css" crc="4263674955" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="485118141" ref="jaqi-loye-brown"/>
+    <file name="temp.css" crc="215237814" ref="temp"/>
     <file name="nomq_preview_master_a-master.css" crc="437191114" ref="index:jaqi-loye-brown:temp"/>
-    <file name="nomq_index.css" crc="403879992" ref="index"/>
-    <file name="nomq_jaqi-loye-brown.css" crc="248928615" ref="jaqi-loye-brown"/>
-    <file name="nomq_temp.css" crc="378730118" ref="temp"/>
+    <file name="nomq_index.css" crc="3888172148" ref="index"/>
+    <file name="nomq_jaqi-loye-brown.css" crc="4033247814" ref="jaqi-loye-brown"/>
+    <file name="nomq_temp.css" crc="135118344" ref="temp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown:temp"/>
@@ -23,6 +23,7 @@
     <file name="webpro.js" crc="4059564322" ref="index:jaqi-loye-brown:temp"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index:jaqi-loye-brown:temp"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:jaqi-loye-brown:temp"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
   </folder>
   <folder name="images">
     <file name="arrowmenudown-dark.png" crc="3810837464" ref="temp">
@@ -103,7 +104,7 @@
     <file name="portabello-novella-u597-fr.png" crc="3784101650" ref="index"/>
     <file name="portabello-novella-u620-fr.png" crc="3815119434" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:jaqi-loye-brown:temp"/>
-    <file name="portabello-novella-u1482-fr.png" crc="494731585" ref="index"/>
+    <file name="portabello-novella-u1482-fr.png" crc="4241818910" ref="index"/>
     <file name="photo 16-10-2018, 16 45 08138x184.jpg" crc="236919771" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -129,8 +130,9 @@
     <file name="trainers230x111.jpg" crc="3917709618" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="a-master-favicon.ico" crc="483159107" ref="index"/>
   </folder>
-  <file name="index.html" crc="292057877" seo="true" mt="1603423839428" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="489737890" seo="true" mt="1603421756407" redirect="true"/>
-  <file name="temp.html" crc="3846155671" seo="true" mt="1603421756407" redirect="true"/>
+  <file name="index.html" crc="273165134" seo="true" mt="1603488310591" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="3989340490" seo="true" mt="1603488310591" redirect="true"/>
+  <file name="temp.html" crc="3804832846" seo="true" mt="1603488310591" redirect="true"/>
 </manifest>
