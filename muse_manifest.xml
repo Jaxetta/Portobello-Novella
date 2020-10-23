@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603418059260">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603419127221">
   <folder name="css">
     <file name="site_global.css" crc="218414963"/>
     <file name="master_a-master.css" crc="415870499" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="4224550012" ref="index"/>
+    <file name="index.css" crc="210326708" ref="index"/>
     <file name="jaqi-loye-brown.css" crc="4246966662" ref="jaqi-loye-brown"/>
     <file name="temp.css" crc="22868529" ref="temp"/>
     <file name="nomq_preview_master_a-master.css" crc="437191114" ref="index:jaqi-loye-brown:temp"/>
-    <file name="nomq_index.css" crc="69837893" ref="index"/>
+    <file name="nomq_index.css" crc="137129645" ref="index"/>
     <file name="nomq_jaqi-loye-brown.css" crc="164269593" ref="jaqi-loye-brown"/>
     <file name="nomq_temp.css" crc="3880824864" ref="temp"/>
   </folder>
@@ -102,9 +102,6 @@
     </file>
     <file name="portabello-novella-u597-fr.png" crc="3784101650" ref="index"/>
     <file name="portabello-novella-u620-fr.png" crc="3815119434" ref="index"/>
-    <file name="trainers384x185.jpg" crc="164130208" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index:jaqi-loye-brown:temp"/>
     <file name="trainers204x98.jpg" crc="3762618228" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -129,8 +126,11 @@
     <file name="pintrest-whit-buttonu2555-r-fr.png" crc="33449820" ref="index"/>
     <file name="soundcloud-red-buttonu2556-fr.png" crc="3783495785" ref="index"/>
     <file name="soundcloud-white-buttonu2556-r-fr.png" crc="4120871790" ref="index"/>
+    <file name="trainers331x159.jpg" crc="125314080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4113386716" seo="true" mt="1603417984225" redirect="true"/>
+  <file name="index.html" crc="199675210" seo="true" mt="1603419091476" redirect="true"/>
   <file name="jaqi-loye-brown.html" crc="4240967430" seo="true" mt="1603417984225" redirect="true"/>
   <file name="temp.html" crc="55549134" seo="true" mt="1603417984225" redirect="true"/>
 </manifest>
