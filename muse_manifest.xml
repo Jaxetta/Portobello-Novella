@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603422417856">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603423021316">
   <folder name="css">
     <file name="site_global.css" crc="218414963"/>
     <file name="master_a-master.css" crc="415870499" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="4189725454" ref="index"/>
+    <file name="index.css" crc="410820259" ref="index"/>
     <file name="jaqi-loye-brown.css" crc="337146565" ref="jaqi-loye-brown"/>
     <file name="temp.css" crc="40451394" ref="temp"/>
     <file name="nomq_preview_master_a-master.css" crc="437191114" ref="index:jaqi-loye-brown:temp"/>
@@ -130,7 +130,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="207867466" seo="true" mt="1603422363936" redirect="true"/>
+  <file name="index.html" crc="454470384" seo="true" mt="1603422979173" redirect="true"/>
   <file name="jaqi-loye-brown.html" crc="489737890" seo="true" mt="1603421756407" redirect="true"/>
   <file name="temp.html" crc="3846155671" seo="true" mt="1603421756407" redirect="true"/>
 </manifest>
