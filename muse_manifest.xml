@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603334308755">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1603418059260">
   <folder name="css">
     <file name="site_global.css" crc="218414963"/>
-    <file name="master_a-master.css" crc="4008274826" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="428770982" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="480804718" ref="jaqi-loye-brown"/>
-    <file name="temp.css" crc="382776165" ref="temp"/>
-    <file name="nomq_preview_master_a-master.css" crc="364881409" ref="index:jaqi-loye-brown:temp"/>
-    <file name="nomq_index.css" crc="433268071" ref="index"/>
-    <file name="nomq_jaqi-loye-brown.css" crc="4075459668" ref="jaqi-loye-brown"/>
-    <file name="nomq_temp.css" crc="476579802" ref="temp"/>
+    <file name="master_a-master.css" crc="415870499" ref="index:jaqi-loye-brown:temp"/>
+    <file name="index.css" crc="4224550012" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="4246966662" ref="jaqi-loye-brown"/>
+    <file name="temp.css" crc="22868529" ref="temp"/>
+    <file name="nomq_preview_master_a-master.css" crc="437191114" ref="index:jaqi-loye-brown:temp"/>
+    <file name="nomq_index.css" crc="69837893" ref="index"/>
+    <file name="nomq_jaqi-loye-brown.css" crc="164269593" ref="jaqi-loye-brown"/>
+    <file name="nomq_temp.css" crc="3880824864" ref="temp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown:temp"/>
@@ -130,7 +130,7 @@
     <file name="soundcloud-red-buttonu2556-fr.png" crc="3783495785" ref="index"/>
     <file name="soundcloud-white-buttonu2556-r-fr.png" crc="4120871790" ref="index"/>
   </folder>
-  <file name="index.html" crc="157833297" seo="true" mt="1603334280373" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="316113473" seo="true" mt="1603333762440" redirect="true"/>
-  <file name="temp.html" crc="512180697" seo="true" mt="1603333762440" redirect="true"/>
+  <file name="index.html" crc="4113386716" seo="true" mt="1603417984225" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="4240967430" seo="true" mt="1603417984225" redirect="true"/>
+  <file name="temp.html" crc="55549134" seo="true" mt="1603417984225" redirect="true"/>
 </manifest>
